@@ -1,0 +1,12 @@
+{
+  "sample_rate": 44100,
+  "segment_secs": 5,
+  "n_mels": 128,
+  "n_fft": 2048,
+  "hop_length": 512,
+  "seg_frames": 431,
+  "midpoint": 5.0,
+  "margin": 0.5,
+  "model_path": "/content/emotion_model/best_cnn_model.keras",
+  "scaler_path": "/content/emotion_model/label_scaler.pkl"
+}
