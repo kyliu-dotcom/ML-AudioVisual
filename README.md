@@ -1,8 +1,8 @@
 # 🎧 ML Audio Emotion Visualizer
 
-A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature processing, a trained CNN model, and a mood mapping system to transform sound into emotion-based visual outputs.
+**🤖 AI/ML Project | Audio Emotion Recognition & Visualization**
 
-Developed as part of final project for Art and Machine Learning course at CMU
+A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature processing with deep learning to create emotion-driven visualizations.
 
 ## 🧠 Overview
 
@@ -19,13 +19,13 @@ The entire workflow was developed and executed in **Google Colab notebooks**.
 ## 📁 Repository Structure
 
 ```text
-emotion_pipeline.ipynb            # End-to-end audio → emotion pipeline
-MAIN Image_Generator.ipynb        # Generates visuals from mood/audio features
-Final_Mood_Table.ipynb            # Finalized mood mapping logic
-Copy of Mood_Table.ipynb          # Experimental version of mood mapping system
+music-emotion-cnn-training.ipynb      # CNN model training on music emotion dataset
+audio-to-visualizer-pipeline.ipynb    # End-to-end audio → emotion → visual pipeline
+audio_mood_csv.ipynb                  # Audio analysis and mood CSV generation
+audio_mood_video_generator.ipynb       # Generates videos from mood and audio features
 
 emotion_model/
-├── best_cnn_model.keras          # Trained CNN model for emotion classification
-├── label_scaler.pkl              # Label/feature scaler used for normalization
-├── config.json                   # Model configuration and parameters
-
+├── best_cnn_model.keras              # Trained CNN model for emotion classification
+├── label_scaler.pkl                  # Label/feature scaler used for normalization
+├── config.json                       # Model configuration and parameters
+```
