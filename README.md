@@ -4,7 +4,7 @@
 
 A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature processing with deep learning to create emotion-driven visualizations. This was the final project for the Art and Machine Learning course at CMU.
 
-Demo: https://artml.vercel.app/
+Demo: https://artml.vercel.app/videos/locked-out-of-heaven
 
 ## 🧠 Overview
 
