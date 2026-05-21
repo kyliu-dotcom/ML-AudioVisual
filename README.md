@@ -1,3 +1,4 @@
+
 # 🎧 ML Audio Emotion Visualizer
 
 **🤖 AI/ML Project | Audio Emotion Recognition & Visualization**
@@ -5,6 +6,7 @@
 A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature processing with deep learning to create emotion-driven visualizations. This was the final project for the Art and Machine Learning course at CMU.
 
 Demo: https://artml.vercel.app/videos/locked-out-of-heaven
+<img width="957" height="2048" alt="IMG_6865" src="https://github.com/user-attachments/assets/93b83801-a294-4fc5-8c93-c654f20dc869" />
 
 ## 🧠 Overview
 
