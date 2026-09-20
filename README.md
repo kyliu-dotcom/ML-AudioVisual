@@ -7,7 +7,6 @@ A machine learning–based project built in Google Colab that analyzes audio and
 Demo: https://artml.vercel.app/videos/locked-out-of-heaven
 <img width="1578" height="1066" alt="audio_demo" src="https://github.com/user-attachments/assets/8c2f5855-b34e-4348-bb61-d0a168964f20" />
 
-Project report: [ArtMLReport.pdf](./ArtMLReport.pdf) — a technical summary of the audio emotion recognition pipeline, CNN model training, mood mapping system, and visual generation workflow.
 
 ## 🧠 Overview
 
