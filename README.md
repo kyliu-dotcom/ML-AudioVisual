@@ -2,7 +2,7 @@
 
 **🤖 AI/ML Project | Audio Emotion Recognition & Visualization**
 
-A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature process[...]
+A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature process [...]
 
 Demo: https://artml.vercel.app/videos/locked-out-of-heaven
 <img width="1578" height="1066" alt="audio_demo" src="https://github.com/user-attachments/assets/8c2f5855-b34e-4348-bb61-d0a168964f20" />
@@ -27,7 +27,8 @@ The entire workflow was developed and executed in **Google Colab notebooks**.
 music-emotion-cnn-training.ipynb      # CNN model training on music emotion dataset
 audio-to-visualizer-pipeline.ipynb    # End-to-end audio → emotion → visual pipeline
 audio_mood_csv.ipynb                  # Audio analysis and mood CSV generation
-audio_mood_video_generator.ipynb       # Generates videos from mood and audio features
+audio_mood_video_generator.ipynb      # Generates videos from mood and audio features
+ArtMLReport.pdf                       # Technical project report
 
 emotion_model/
 ├── best_cnn_model.keras              # Trained CNN model for emotion classification
