@@ -2,11 +2,15 @@
 
 **🤖 AI/ML Project | Audio Emotion Recognition & Visualization**
 
-A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature process [...]
+A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature processing, emotion prediction, and generative visualization.
 
-Demo: ML Audio Visualizer Demo Videos
-<img width="1578" height="1066" alt="audio_demo" src="ML Audio Visualizer Demo Videos"/>
+## 📹 Demo
 
+Check out the **[Demo Folder](https://drive.google.com/drive/folders/1GIEF6fQIH3pgoG3-sYuTrwZzzZuz9iDt?usp=drive_link)** on Google Drive!
+
+This folder contains demonstration videos for different pieces of music, showcasing how the emotion visualizer generates unique visual outputs based on the predicted emotional state of each audio track. Simply browse through the folder to view visualizations for various music genres and emotional profiles.
+
+---
 
 ## 🧠 Overview
 
