@@ -4,7 +4,7 @@
 
 A machine learning–based project built in Google Colab that analyzes audio and generates visual representations driven by predicted emotional state (mood). The project combines audio feature process [...]
 
-Demo: https://artml.vercel.app/videos/locked-out-of-heaven
+Demo: ML Audio Visualizer Demo Videos
 <img width="1578" height="1066" alt="audio_demo" src="ML Audio Visualizer Demo Videos"/>
 
 
